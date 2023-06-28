@@ -4,7 +4,7 @@ const Top = () => {
   return  (
     <>
       <Header />
-      <h1>[Top Page]</h1>
+      <h1>[トップページ]</h1>
     </>
   );
 }
