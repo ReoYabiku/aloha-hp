@@ -4,7 +4,7 @@ const Members = () => {
   return (
     <>
       <Header />
-      <h1>[Members Page]</h1>
+      <h1>[メンバーページ]</h1>
     </>
   );
 }
