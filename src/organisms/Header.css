@@ -1,0 +1,34 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 1px 3px var(--color-black);
+}
+
+.header-logo {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+.header-logo-img-wrapper {
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.header-title {
+    margin: 0;
+    font-size: 32px;
+}
+
+.header-subtitle {
+    margin: 0;
+    font-size: 12px;
+}
+
+.header-nav {
+    color: var(--color-text);
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+}
