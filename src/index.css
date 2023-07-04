@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont,'YuGothic' , 'Segoe UI', 'Roboto', 'Oxygen',
@@ -17,6 +19,7 @@ code {
   --color-text: #666666;
   --color-header-border: #AAAAAA;
   --color-main: #63C1C7;
+  --color-white: #ffffff;
 }
 
 a {
