@@ -1,10 +1,13 @@
 import Header from '../organisms/Header';
+import FirstView from '../organisms/FirstView';
 
 const Top = () => {
   return  (
     <>
       <Header />
-      <h1>[トップページ]</h1>
+      <main>
+        <FirstView />
+      </main>
     </>
   );
 }
