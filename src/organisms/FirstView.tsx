@@ -1,6 +1,12 @@
+import style from './FirstView.module.css';
+
 const FirstView = () => {
     return (
-        <h1>First View</h1>
+        <section className={style.first_view}>
+            <img src="./first_view.png" alt="安田講堂" />
+            <div className={style.triangle1}></div>
+            <div className={style.triangle2}></div>
+        </section>
     );
 }
 

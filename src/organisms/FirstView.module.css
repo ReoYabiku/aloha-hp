@@ -1,0 +1,25 @@
+.first_view {
+    position: relative;
+}
+
+.triangle1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    height: 0;
+    width: 0;
+    border-top: 210px solid var(--color-main);
+    border-right: 617px solid transparent;
+}
+
+.triangle2 {
+    position: absolute;
+    bottom: 3px;
+    right: 0;
+
+    height: 0;
+    width: 0;
+    border-bottom: 373px solid var(--color-main);
+    border-left: 425px solid transparent;
+}
